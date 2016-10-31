@@ -4,7 +4,7 @@ This repo has some notebooks for getting started with the Jade hack. You can exp
 ## Getting started
 1. Sign in with your github account at [devel.informaticslab.co.uk](devel.informaticslab.co.uk). (If you can't get access, let Niall know and he can white-list you).
 1. Click on "New" and choose "Terminal" to start a new terminal. You may want to type "bash" *enter* at the terminal to get a more useful console
-1. Execute `git clone https://github.com/niallrobinson/jade-hack.git` to copy this repo to your workspace
+1. Execute `git clone https://github.com/niallrobinson/jade-hack.git` to copy this repo to your workspace. (If you want to be fancy, you can fork it first and clone that - don't worry if you don't know what that means.)
 1. From your home Jade screen, open the `jade-hack` directory. You can click on any of the notebooks to run them.
 1. Go to the [issues page](https://github.com/niallrobinson/jade-hack/issues) for this repo where you can find things to try.
 
@@ -26,4 +26,3 @@ Jade combines a bunch of cool tech projects. If you want to read more about the 
 * [Docker](https://www.docker.com/)
 * [Terraform](https://www.terraform.io/)
 * [Amazon Web Services](https://aws.amazon.com/)
-
