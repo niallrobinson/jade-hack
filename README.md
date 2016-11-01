@@ -2,7 +2,7 @@
 This repo has some notebooks for getting started with the Jade hack. You can explore Jupyter Notebook and start playing with some big data processing.
 
 ## Getting started
-1. Sign in with your github account at [http://devel.informaticslab.co.uk](http://devel.informaticslab.co.uk). (If you can't get access, let Niall know and he can white-list you).
+1. Sign in with your github account at [http://devel.jupyter.informaticslab.co.uk](http://devel.jupyter.informaticslab.co.uk). (If you can't get access, let Niall know and he can white-list you).
 1. Click on "New" and choose "Terminal" to start a new terminal. You may want to type "bash" *enter* at the terminal to get a more useful console
 1. Execute `git clone https://github.com/niallrobinson/jade-hack.git` to copy this repo to your workspace. (If you want to be fancy, you can fork it first and clone that - don't worry if you don't know what that means.)
 1. From your home Jade screen, open the `jade-hack` directory. You can click on any of the notebooks to run them.
